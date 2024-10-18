@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1001546573311",
+    "project_id": "task-7afd0",
+    "storage_bucket": "task-7afd0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001546573311:android:b1fcca067ca94de829f3ca",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firabase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtvJ2DOYqMer7oVZr6DRNFfAgwPoU7kXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
